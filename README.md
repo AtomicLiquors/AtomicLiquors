@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+Java 백엔드 개발자 최효빈입니다.
 
 <!--
 **AtomicLiquors/AtomicLiquors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
