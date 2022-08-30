@@ -1,6 +1,8 @@
 ### Profile
+___
+#### Java 백엔드 개발자 최효빈입니다.
 
-Java 백엔드 개발자 최효빈입니다.
+학구열과 탐구심, 이론과 원칙에 충실한 내실 있는 개발을 지향합니다.
 
 <!--
 **AtomicLiquors/AtomicLiquors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
