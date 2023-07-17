@@ -14,7 +14,7 @@
 <blockquote>
 It was all bubbling up in my frontal lobes, <br>
 Mixing itself together into a <br>
-<b>Sparkling cocktail of useful information</b>
+<b>Sparkling Cocktail of Useful Information</b>
 </blockquote>
  <i>— Limitless (2011)</i>
  </div>
