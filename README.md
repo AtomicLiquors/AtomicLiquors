@@ -11,8 +11,12 @@
 </div>
 -->
 
+it was all bubbling up in my frontal lobes, 
+mixing itself together into a 
+sparkling cocktail of useful information
+Limitless, 2011
 
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!--
 **AtomicLiquors/AtomicLiquors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
