@@ -1,5 +1,5 @@
 
-
+<!--
 <div style="display:flex;" align="center">
   <p><b>| SSAFY 9기 교육생 |</b></p>
 <p><b>| Java Backend Web Developer |</b></p>
@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
-
+-->
 
 
 
