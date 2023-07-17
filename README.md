@@ -11,11 +11,11 @@
 </div>
 -->
 <div align="center">
-<h3>"</h3>
-it was all bubbling up in my frontal lobes, 
-mixing itself together into a 
+<h1>"</h1>
+it was all bubbling up in my frontal lobes, <br>
+mixing itself together into a <br>
 sparkling cocktail of useful information
-<h3>"</h3>
+<h1>"</h1>
  <i>— Limitless (2011)</i>
  </div>
 
