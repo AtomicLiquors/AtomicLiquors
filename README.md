@@ -1,4 +1,4 @@
-
+![](holland.gif)
 <!--
 <div style="display:flex;" align="center">
   <p><b>| SSAFY 9기 교육생 |</b></p>
