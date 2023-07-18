@@ -13,16 +13,19 @@
 <blockquote>
 It was all bubbling up in my frontal lobes, <br>
 Mixing itself together into a <br>
-<b>Sparkling Cocktail of Useful Information</b>
+<b>Sparkling Cocktail of Useful Information</b><br><br>
+   <i>— Limitless (2011)</i>
 </blockquote>
- <i>— Limitless (2011)</i>
+
  </div>
+<br>
+
+<!--<h3 align="center"🔍 Stack 🔍</h3>-->
+<p align="center">| &nbsp;<b>Hyobin Choe</b> &nbsp;|&nbsp; <span style="color:#6F625A"> AtomicLiquors </span>&nbsp;|</p> 
 <br>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksy90101%2Fhit-counter&count_bg=%239288E5&title_bg=%23555555&icon=&icon_color=%239488E7&title=hits&edge_flat=false"/></a>
 </p>
-
-<!--<h3 align="center"🔍 Stack 🔍</h3>-->
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
