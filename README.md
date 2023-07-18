@@ -32,8 +32,11 @@ Mixing itself together into a <br>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicLiquors&layout=donut)
 </p>
+<div align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicLiquors&layout=donut"/>
+</div>
+
 <br>
 <!--
 **AtomicLiquors/AtomicLiquors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
