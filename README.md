@@ -1,14 +1,19 @@
 <p align="center">
   <img src="holland.gif" alt="animated" />
 </p>
-<!--
 <div style="display:flex;" align="center">
   <p><b>| SSAFY 9기 교육생 |</b></p>
 <p><b>| Java Backend Web Developer |</b></p>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
 
 </div>
--->
+
+
+열정과 아이디어가 넘치는 동료들과 함께할 때 최상의 시너지를 만들어냅니다.  
+삼성 청년 SW 아카데미의 팀 프로젝트 시상에서 최우수상, 우수상을 달성했습니다.  
+
+사소하게 흘러가는 시간이라도 꼼꼼하게 활용하며,  
+출근 시간이 30분을 넘는 3~6인의 동료들과 함께 3개월간 데일리 CS 퀴즈 스터디를 운영하고 있습니다.  
+
 <div align="center">
 <blockquote>
 It was all bubbling up in my frontal lobes, <br>
@@ -19,7 +24,6 @@ Mixing itself together into a <br>
 
  </div>
 <br>
-
 <!--<h3 align="center"🔍 Stack 🔍</h3>-->
 <p align="center">| &nbsp;<b>Hyobin Choe</b> &nbsp;|&nbsp; <span style="color:#6F625A"> AtomicLiquors </span>&nbsp;|</p> 
 <br>
