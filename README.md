@@ -7,22 +7,14 @@
 
 </div>
 
-
+<div align="center">
 열정과 아이디어가 넘치는 동료들과 함께할 때 최상의 시너지를 만들어냅니다.  
 삼성 청년 SW 아카데미의 팀 프로젝트 시상에서 최우수상, 우수상을 달성했습니다.  
 
 사소하게 흘러가는 시간이라도 꼼꼼하게 활용하며,  
 출근 시간이 30분을 넘는 3~6인의 동료들과 함께 3개월간 데일리 CS 퀴즈 스터디를 운영하고 있습니다.  
+</div>
 
-<div align="center">
-<blockquote>
-It was all bubbling up in my frontal lobes, <br>
-Mixing itself together into a <br>
-<b>Sparkling Cocktail of Useful Information</b><br><br>
-   <i>— Limitless (2011)</i>
-</blockquote>
-
- </div>
 <br>
 <!--<h3 align="center"🔍 Stack 🔍</h3>-->
 <p align="center">| &nbsp;<b>Hyobin Choe</b> &nbsp;|&nbsp; <span style="color:#6F625A"> AtomicLiquors </span>&nbsp;|</p> 
