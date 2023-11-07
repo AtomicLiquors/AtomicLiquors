@@ -3,10 +3,8 @@
 </p>-->
 
 <div style="display:flex;" align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f08263&height=240&section=header
-&text=AtomicLiquor&desc=SSAFY%209th%20class%20|%20Java%20Web%20Developer" />
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=240&section=header&text=Hyobin%20Choe&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=80&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Hyobin%20Choe&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=80&descAlignY=50" />
 </div>
 <div style="display:flex;" align="center">
   <p> <b>| 최 효 빈 |</b> <p>
