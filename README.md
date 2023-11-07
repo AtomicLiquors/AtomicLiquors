@@ -3,11 +3,13 @@
 </p>-->
 
 <div style="display:flex;" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=240&section=header&text=AtomicLiquors&fontSize=30&desc=SSAFY%209th%20class%20|%20Java%20Web%20Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f08263&height=240&section=header
+&text=AtomicLiquor&desc=SSAFY%209th%20class%20|%20Java%20Web%20Developer" />
 </div>
-
+&fontAlign=70&fontSize=30&fontColor=ffffff
 <div style="display:flex;" align="center">
-  <p>최 효 빈</p>
+  <p> <b>| 최 효 빈 |</b> <p>
+    <p> Java 웹 개발자, SSAFY 9기 교육생</p>
 </div>
 
 <div align="center">
@@ -26,7 +28,6 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
 </p>
 
 
@@ -36,12 +37,14 @@
  Collaboration 🤝
 </b></p>
   
+<br>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  <br>
 </p>
+  <br>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksy90101%2Fhit-counter&count_bg=%239288E5&title_bg=%23555555&icon=&icon_color=%239488E7&title=hits&edge_flat=false"/></a>
 </p>
