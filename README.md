@@ -5,8 +5,9 @@
 <div style="display:flex;" align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f08263&height=240&section=header
 &text=AtomicLiquor&desc=SSAFY%209th%20class%20|%20Java%20Web%20Developer" />
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FD866E&height=240&section=header&text=Hyobin%20Choe&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=80&descAlignY=50" />
 </div>
-&fontAlign=70&fontSize=30&fontColor=ffffff
 <div style="display:flex;" align="center">
   <p> <b>| 최 효 빈 |</b> <p>
     <p> Java 웹 개발자, SSAFY 9기 교육생</p>
@@ -36,8 +37,6 @@
 <p align="center"><b>🤝
  Collaboration 🤝
 </b></p>
-  
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
