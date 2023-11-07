@@ -8,7 +8,6 @@
 
 <div style="display:flex;" align="center">
   <h3>최 효 빈</h3>
-  <p><b>| SSAFY 9기 교육생 | Java Web Developer |</b></p>
 </div>
 
 <div align="center">
