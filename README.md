@@ -1,7 +1,11 @@
 <!--<p align="center">
   <img src="holland.gif" alt="animated" />
 </p>-->
-![header](https://capsule-render.vercel.app/api?text=Hello%| AtomicLiquors!&fontSize=40&desc=Desc&descSize=30)
+
+<div style="display:flex;" align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+</div>
+
 <div style="display:flex;" align="center">
   <h3>최 효 빈</h3>
   <p><b>| SSAFY 9기 교육생 | Java Backend Web Developer |</b></p>
