@@ -7,7 +7,7 @@
 </div>
 
 <div style="display:flex;" align="center">
-  <h3>최 효 빈</h3>
+  <p>최 효 빈</p>
 </div>
 
 <div align="center">
@@ -19,17 +19,31 @@
 </div>
 
 <br>
-<!--<h3 align="center"🔍 Stack 🔍</h3>-->
-<br>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksy90101%2Fhit-counter&count_bg=%239288E5&title_bg=%23555555&icon=&icon_color=%239488E7&title=hits&edge_flat=false"/></a>
-</p>
 
+<p align="center"><b>🔍 Stack 🔍</b></p>
+  
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <br>
+</p>
+
+
+<br>
+
+<p align="center"><b>🤝
+ Collaboration 🤝
+</b></p>
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  <br>
+</p>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksy90101%2Fhit-counter&count_bg=%239288E5&title_bg=%23555555&icon=&icon_color=%239488E7&title=hits&edge_flat=false"/></a>
 </p>
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicLiquors&layout=donut"/>
