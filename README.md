@@ -3,12 +3,12 @@
 </p>-->
 
 <div style="display:flex;" align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=240&section=header&text=Hello%20World!&fontSize=40&desc=Hello%20capsule%20render" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=240&section=header&text=AtomicLiquors&fontSize=30&desc=SSAFY%209th%20class%20|%20Java%20Web%20Developer" />
 </div>
 
 <div style="display:flex;" align="center">
   <h3>최 효 빈</h3>
-  <p><b>| SSAFY 9기 교육생 | Java Backend Web Developer |</b></p>
+  <p><b>| SSAFY 9기 교육생 | Java Web Developer |</b></p>
 </div>
 
 <div align="center">
