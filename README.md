@@ -3,7 +3,7 @@
 </p>-->
 
 <div style="display:flex;" align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FD866E&height=240&section=header&text=Hello%20World!&fontSize=40&desc=Hello%20capsule%20render" />
 </div>
 
 <div style="display:flex;" align="center">
