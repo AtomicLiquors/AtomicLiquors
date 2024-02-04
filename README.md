@@ -8,7 +8,7 @@
 </div>
 <div style="display:flex;" align="center">
   <b>| 최 효 빈 |</b>  
-    <p> Java & Spring 웹 애플리케이션 개발자, SSAFY 9기 교육생</p>
+    <p> Java % Javascript 웹 애플리케이션 개발자, SSAFY 9기 수료생</p>
 </div>
 <!--
 <div align="center">
