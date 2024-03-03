@@ -8,7 +8,8 @@
 </div>
 <div style="display:flex;" align="center">
   <b>| 최 효 빈 |</b>  
-    <p> Java & Javascript 웹 애플리케이션 개발자, SSAFY 9기 수료생</p>
+    <p> Java & Javascript 웹 애플리케이션 개발자</p> 
+  <p>삼성 청년 SW 아카데미 9기 우수 수료생[수료등급 : 우수(상위 30%)]</p>
 </div>
 <!--
 <div align="center">
