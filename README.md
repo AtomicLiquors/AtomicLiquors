@@ -2,11 +2,11 @@
   <img src="holland.gif" alt="animated" />
 </p>-->
 
-<div style="display:flex;" align="center">
+<div>
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Hyobin%20Choe&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=80&descAlignY=50" />
 </div>
-<div style="display:flex;" align="center">
+<div>
   <b>| 최 효 빈 |</b>  
     <p> Java & Javascript 웹 애플리케이션 개발자</p> 
 </div>
@@ -21,23 +21,24 @@
 -->
 <br>
 
-<div align="center"><b>🎓 Education 🎓</b></div>
-  
-<div align="center">
-  <p>삼성 청년 SW 아카데미 9기 우수 수료생 [수료등급 : 우수(상위 30%)]</p>
-</div>
+<b>🎓 Education 🎓</b> <br>
+삼성 청년 SW 아카데미 9기 우수 수료생 [수료등급 : 우수(상위 30%)]
+<br>
+
+<b>🏆 Awards 🏆</b> <br>
+<b>2023.05.26</b> 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상 🎖️  <br>
+<b>2023.10.06</b> 삼성 청년 SW 아카데미 특화 프로젝트 우수상 🎖️ <br>
+<b>2023.11.24</b> 삼성 청년 SW 아카데미 자율 프로젝트 우수상 🎖️ 
+
 <!--
-<div align="center"><b>🏆 Awards 🏆</b></div>
-<div align="left" width="50%">
-  <img src="/logo/ringo.png" height="30"/><b>2023.05.26</b> 🏆 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상<br>
-  <img src="/logo/ontheblock.png" height="30"/><b>2023.10.06</b> 🏆 삼성 청년 SW 아카데미 특화 프로젝트 우수상<br>
-  <img src="/logo/senabo.png" height="30"/><b>2023.11.24</b> 🏆 삼성 청년 SW 아카데미 자율 프로젝트 우수상
-</div>
+<img src="/logo/ringo.png" height="30"/>
+<img src="/logo/ontheblock.png" height="30"/>
+<img src="/logo/senabo.png" height="30"/>
 -->
 <br>
-<p align="center"><b>🔍 Stack 🔍</b></p>
+<b>🔍 Stack 🔍</b>
   
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -50,20 +51,21 @@ TOEIC 935 [-24.05.29]
 -->
 <br>
 
-<p align="center"><b>🤝
+<b>🤝
  Collaboration 🤝
-</b></p>
+</b>
 
-<p align="center">
+
+<p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </p>
   <br>
-<p align="center">
+<p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksy90101%2Fhit-counter&count_bg=%239288E5&title_bg=%23555555&icon=&icon_color=%239488E7&title=hits&edge_flat=false"/></a>
 </p>
-<div align="center">
+<div>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AtomicLiquors&layout=donut"/>
 </div>
 
