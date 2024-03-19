@@ -26,15 +26,16 @@
 <div align="center">
   <p>삼성 청년 SW 아카데미 9기 우수 수료생 [수료등급 : 우수(상위 30%)]</p>
 </div>
-
+<!--
 <div align="center"><b>🏆 Awards 🏆</b></div>
-<div align="center">
-  <b>2023.05.26</b> 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상<br>
-  <b>2023.10.06</b> 삼성 청년 SW 아카데미 특화 프로젝트 우수상<br>
-  <b>2023.11.24</b> 삼성 청년 SW 아카데미 자율 프로젝트 우수상
+<div align="left" width="50%">
+  <img src="/logo/ringo.png" height="30"/><b>2023.05.26</b> 🏆 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상<br>
+  <img src="/logo/ontheblock.png" height="30"/><b>2023.10.06</b> 🏆 삼성 청년 SW 아카데미 특화 프로젝트 우수상<br>
+  <img src="/logo/senabo.png" height="30"/><b>2023.11.24</b> 🏆 삼성 청년 SW 아카데미 자율 프로젝트 우수상
 </div>
+-->
 <br>
-<div align="center"><b>🔍 Stack 🔍</b></div>
+<p align="center"><b>🔍 Stack 🔍</b></p>
   
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
