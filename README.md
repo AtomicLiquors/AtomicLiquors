@@ -43,8 +43,10 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=222"/>
   <img src="https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
-
-
+<!--
+OPIC IH [-26.03.18]
+TOEIC 935 [-24.05.29]
+-->
 <br>
 
 <p align="center"><b>🤝
