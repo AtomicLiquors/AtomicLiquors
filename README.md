@@ -4,7 +4,7 @@
 
 <div>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Hyobin%20Choe&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=80&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Hyobin%20Choe&fontAlign=20&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=14&descAlignY=50" />
 </div>
 <div>
   <b>| 최 효 빈 |</b>  
