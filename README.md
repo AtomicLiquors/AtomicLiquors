@@ -9,7 +9,6 @@
 <div style="display:flex;" align="center">
   <b>| 최 효 빈 |</b>  
     <p> Java & Javascript 웹 애플리케이션 개발자</p> 
-  <p>삼성 청년 SW 아카데미 9기 우수 수료생<br>[수료등급 : 우수(상위 30%)]</p>
 </div>
 <!--
 <div align="center">
@@ -21,6 +20,19 @@
 </div>
 -->
 <br>
+
+<p align="center"><b>🎓 Education 🎓</b></p>
+  
+<p align="center">
+  <p>삼성 청년 SW 아카데미 9기 우수 수료생<br>[수료등급 : 우수(상위 30%)]</p>
+</p>
+
+<p align="center"><b>🏆 Awards 🏆</b></p>
+<p align="center">
+  <p><b>2023.05.26</b> 삼성 청년 SW 아카데미 1학기 프로젝트 최우수상</p>
+  <p><b>2023.10.06</b> 삼성 청년 SW 아카데미 특화 프로젝트 우수상</p>
+  <p><b>2023.11.24</b> 삼성 청년 SW 아카데미 자율 프로젝트 우수상</p>
+</p>
 
 <p align="center"><b>🔍 Stack 🔍</b></p>
   
