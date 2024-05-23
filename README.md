@@ -63,7 +63,7 @@
 <b>🌎 Linguistics 🌎</b> <br>
 <p>
   <b>OPIC IH [-26.03.18]</b><br>
-  <b>TOEIC 935 [-24.05.29]</b><br>
+  <b>TOEIC 960 [-26.05.22]</b><br>
 </p>
 <br>
 
