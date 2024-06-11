@@ -1,6 +1,3 @@
-<!--<p align="center">
-  <img src="holland.gif" alt="animated" />
-</p>-->
 
 <div>
   
