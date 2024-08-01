@@ -5,7 +5,7 @@
 </div>
 <div>
   <b>| 최 효 빈 |</b>  
-    <p> Java & Javascript 웹 애플리케이션 개발자</p>  
+    <p> Java & Javascript 풀스택 웹 애플리케이션 개발자</p>  
 </div>
 
 <br>
