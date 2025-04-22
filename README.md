@@ -2,7 +2,7 @@
 ![Profile Top Banner](https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Hyobin%20Choe&fontAlign=20&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=14&descAlignY=50)
 
 <h3>최 효 빈</h3>
-Java & Javascript 풀스택 웹 애플리케이션 개발자 최효빈입니다.
+Java & Javascript 풀스택 웹 애플리케이션 개발자 최효빈입니다. 
 <br>
 <br>
 <p><b>🔍 Skills 🔍</b></p>
