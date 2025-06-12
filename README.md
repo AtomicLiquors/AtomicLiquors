@@ -4,7 +4,7 @@
 <h3>최 효 빈</h3>
 Java & Javascript 풀스택 웹 애플리케이션 개발자   
 <br>
-<br>  
+<br>
 <p><b>🔍 Skills 🔍</b></p>
 
 **Front-End**  
