@@ -3,8 +3,6 @@
 
 <h3>최 효 빈</h3>
 
-https://docs.google.com/spreadsheets/d/1CSNm0Fk8sRsWhUYxeaSrlz1fNJKLmC_B/edit?usp=drivesdk&ouid=106964484510171573658&rtpof=true&sd=true
-
 <br>
 <br>
 <p><b>🔍 Skills 🔍</b></p>
